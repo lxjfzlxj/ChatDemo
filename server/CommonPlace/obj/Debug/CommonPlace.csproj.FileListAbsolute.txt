@@ -1,6 +1,0 @@
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\bin\Debug\CommonPlace.dll
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\bin\Debug\CommonPlace.pdb
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\obj\Debug\CommonPlace.csproj.AssemblyReference.cache
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\obj\Debug\CommonPlace.csproj.CoreCompileInputs.cache
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\obj\Debug\CommonPlace.dll
-C:\Users\93664\Desktop\me\unity\C#\Chat Demo\CommonPlace\obj\Debug\CommonPlace.pdb
