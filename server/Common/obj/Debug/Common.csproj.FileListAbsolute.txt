@@ -1,0 +1,6 @@
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\bin\Debug\Common.dll
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\bin\Debug\Common.pdb
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\obj\Debug\Common.dll
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Common\obj\Debug\Common.pdb

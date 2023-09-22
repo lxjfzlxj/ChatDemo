@@ -1,0 +1,10 @@
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Chat_Demo\bin\hibernate.cfg.xml
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Chat_Demo\bin\log4net.config
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Chat_Demo\bin\Chat Demo.dll.config
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Chat_Demo\bin\Chat Demo.dll
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Chat_Demo\bin\Chat Demo.pdb
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Chat Demo\obj\Debug\Chat Demo.csproj.AssemblyReference.cache
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Chat Demo\obj\Debug\Chat Demo.csproj.CoreCompileInputs.cache
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Chat Demo\obj\Debug\Chat Demo.csproj.CopyComplete
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Chat Demo\obj\Debug\Chat Demo.dll
+C:\Users\93664\Desktop\me\unity\C#\Chat Demo\Chat Demo\obj\Debug\Chat Demo.pdb
